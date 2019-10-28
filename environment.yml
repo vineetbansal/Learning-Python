@@ -5,6 +5,7 @@ channels:
 
 dependencies:
   - jupyter
+  - matplotlib
   - numpy
   - python=3.6
   - scikit-learn
