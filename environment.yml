@@ -8,5 +8,4 @@ dependencies:
   - numpy
   - python=3.6
   - scikit-learn
-  -scipy
- 
+  - scipy
