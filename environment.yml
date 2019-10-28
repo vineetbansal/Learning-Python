@@ -1,0 +1,12 @@
+name: 'learning-python'
+
+channels:
+  - defaults
+
+dependencies:
+  - jupyter
+  - numpy
+  - python=3.6
+  - scikit-learn
+  -scipy
+ 
