@@ -7,6 +7,9 @@ dependencies:
   - jupyter
   - matplotlib
   - numpy
+  - pip
   - python=3.6
   - scikit-learn
   - scipy
+  - pip:
+    - imageio
